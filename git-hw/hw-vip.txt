@@ -1,0 +1,1 @@
+Echo prints or sends the argument to a destination. Cat prints the contents of a file. Even simpler, you tell echo what information to send. Cat pulls information from a file that already exists.
